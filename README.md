@@ -1,4 +1,3 @@
-# Portfolio
 # 💫 About Me:
 Hello, I’m Swastika Brahma, a BTech student driven by curiosity and ambition. With a growing interest in Data Analyticsand currently learning analytical tools and techniques, I’m eager to collaborate with companies on meaningful projects that offer hands-on experience and professional growth.
 
